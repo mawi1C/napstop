@@ -845,7 +845,7 @@ function DownloadSection() {
           <div className="flex flex-col sm:flex-row gap-3 justify-center mb-8">
             <a href="https://github.com/mawi1C/napstop/releases/download/v1-0/NapStop.apk" className="btn-amber font-bold px-8 py-3.5 rounded-2xl flex items-center justify-center gap-2"
               style={{ color: '#0F1B2D', textDecoration: 'none', fontSize: 14 }}>
-              <Smartphone size={18} color="#0F1B2D" /> Download on Google Play
+              <Smartphone size={18} color="#0F1B2D" /> Download APK
             </a>
           </div>
 
