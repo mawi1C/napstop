@@ -3,7 +3,7 @@ import {
   MapPin, Bell, Star, Moon, Zap, Bus, Navigation,
   LogOut, Home, Clock, User, Search, X, ChevronDown,
   Vibrate, Volume2, AlertCircle, CheckCircle,
-  Sun, Github, Smartphone, Shield, Battery,
+  Sun, Smartphone, Shield, Battery,
   Play, Square, Menu, XCircle
 } from 'lucide-react'
 import './index.css'
